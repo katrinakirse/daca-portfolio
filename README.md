@@ -6,9 +6,4 @@
 ## Goal
 Build practical data-analysis skills in SQL, Python and visualization, and create a professional portfolio, to be able to find a new job and start a new carrier.
 
-## Weekly work
-| Week | Topic | Status |
-|---|---|---|
-| 0 | Onboarding | In progress |
-| 1 | SQL basics | Upcoming |
-| 2 | SQL cleaning | Upcoming |
+
