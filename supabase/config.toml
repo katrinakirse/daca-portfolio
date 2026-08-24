@@ -1,5 +1,14 @@
 ﻿[project]
-db_url = "postgresql://postgres:password@localhost:5432/postgres"
-
+account_tier = "free"
+database_major_version = 15
 [api]
+enabled = true
+max_body_size = 20
+default_query_only = true
+[db]
+major_version = 15
+[realtime]
+enabled = true
+max_bytes_per_second = 0
+[auth]
 enabled = true
