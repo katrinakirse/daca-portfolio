@@ -1,0 +1,30 @@
+{
+  "name": "daca-portfolio",
+  "version": "1.0.0",
+  "description": "Data analysis portfolio with Supabase and GitHub integration",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "setup": "node supabase/lib/setup.js",
+    "dev": "node --watch supabase/lib/setup.js",
+    "sync-github": "node supabase/lib/setup.js"
+  },
+  "keywords": [
+    "supabase",
+    "github",
+    "portfolio",
+    "data-analysis",
+    "sql"
+  ],
+  "author": "katrinakirse",
+  "license": "MIT",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0"
+  },
+  "devDependencies": {
+    "node": ">=18.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
