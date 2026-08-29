@@ -9,7 +9,7 @@ Build practical data-analysis skills in SQL, Python and visualization, and creat
 ## Weekly work
 | Week | Topic | Status |
 |---|---|---|
-| 0 | Onboarding | In progress |
-| 1 | SQL basics | Upcoming |
+| 0 | Onboarding | Completed |
+| 1 | SQL basics | Completed|
 | 2 | SQL cleaning | Upcoming |
 
