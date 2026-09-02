@@ -19,11 +19,11 @@ echo "📌 Dashboard: https://app.supabase.com/projects/grecuvatvbzkgkbudofg\n"
 # Step 3: Get API Keys
 echo "Step 3: Getting your Supabase API keys..."
 echo "Go to: https://app.supabase.com/projects/grecuvatvbzkgkbudofg/settings/api"
-echo "Copy your ANON KEY (public key)\n"
+echo "sb_publishable_sNp0OwSLdWnkuNSJxj5mdA_EtJH3feq\n"
 
 # Step 4: Update the key
 echo "Step 4: Updating supabase/lib/supabaseClient.js with your ANON KEY"
-read -p "Paste your SUPABASE_ANON_KEY here: " ANON_KEY
+read -p "sb_publishable_sNp0OwSLdWnkuNSJxj5mdA_EtJH3feq " ANON_KEY
 
 if [ -z "$ANON_KEY" ]; then
     echo "❌ No API key provided. Skipping setup."
