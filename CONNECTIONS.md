@@ -42,10 +42,10 @@ This portfolio connects your **GitHub profile**, **Supabase database**, and **po
 
 - [ ] **Step 2**: Get your ANON KEY from Supabase Settings
   - Go to: https://app.supabase.com/projects/grecuvatvbzkgkbudofg/settings/api
-  - Copy the ANON KEY (public key)
+  - sb_publishable_sNp0OwSLdWnkuNSJxj5mdA_EtJH3feq
 
 - [ ] **Step 3**: Update `supabase/lib/supabaseClient.js` with your ANON KEY
-  - Replace: `const SUPABASE_ANON_KEY = "your-anon-key-here"`
+  - Replace: `const SUPABASE_ANON_KEY = "sb_publishable_sNp0OwSLdWnkuNSJxj5mdA_EtJH3feq"`
 
 - [ ] **Step 4**: Install and run setup
   ```bash
