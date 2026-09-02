@@ -25,12 +25,12 @@ echo "sb_publishable_sNp0OwSLdWnkuNSJxj5mdA_EtJH3feq\n"
 echo "Step 4: Updating supabase/lib/supabaseClient.js with your ANON KEY"
 read -p "sb_publishable_sNp0OwSLdWnkuNSJxj5mdA_EtJH3feq " ANON_KEY
 
-if [ -z "$ANON_KEY" ]; then
+if [ -z "$sb_publishable_sNp0OwSLdWnkuNSJxj5mdA_EtJH3feq" ]; then
     echo "❌ No API key provided. Skipping setup."
     echo "You can run this script again with your API key.\n"
 else
     # Update the file with the actual key
-    sed -i.bak "s/const SUPABASE_ANON_KEY = .*/const SUPABASE_ANON_KEY = \"$ANON_KEY\";/" supabase/lib/supabaseClient.js
+    sed -i.bak "s/const SUPABASE_ANON_KEY = .*/const SUPABASE_ANON_KEY = \"$sb_publishable_sNp0OwSLdWnkuNSJxj5mdA_EtJH3feq\";/" supabase/lib/supabaseClient.js
     echo "✅ API key configured\n"
     
     # Step 5: Run setup
