@@ -1,7 +1,7 @@
 # Week 3
 
 ## Topic
-
+SQL JOINs
 
 ## What I learned
 
