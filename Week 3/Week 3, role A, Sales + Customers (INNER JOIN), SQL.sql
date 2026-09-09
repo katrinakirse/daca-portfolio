@@ -67,7 +67,7 @@ FROM (
 
 
 
-SELECT 
+SELECT
     ROUND(
         100.0 * COUNT(*) / (
             SELECT COUNT(*)
