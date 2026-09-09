@@ -11,7 +11,7 @@ Build practical data-analysis skills in SQL, Python and visualization, and creat
 |---|---|---|
 | 0 | Onboarding | Completed |
 | 1 | SQL basics | Completed|
-| 2 | SQL cleaning | Upcoming |
-
+| 2 | SQL cleaning | Completed |
+|  | SQL JOINs | In progress |
 
 
