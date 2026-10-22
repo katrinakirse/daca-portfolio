@@ -13,5 +13,7 @@ Build practical data-analysis skills in SQL, Python and visualization, and creat
 | 1 | SQL basics | Completed|
 | 2 | SQL cleaning | Completed |
 |  | SQL JOINs | In progress |
+| 5 | Screenshots | [View Week 5 files](Week%205/) |
+| 7 | Notebook and cleaned sales data | [View Week 7 files](Week%207/) |
 
 
