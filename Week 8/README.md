@@ -1,3 +1,3 @@
 # Week 8
 
-No Week 8 project files have been added yet.
+No project files are currently included for this week. This page is reserved for future work.
