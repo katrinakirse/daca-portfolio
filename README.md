@@ -17,7 +17,7 @@ I am building practical data-analysis skills through hands-on projects and cours
 | 5 | Project screenshots | [Open Week 5](Week%205/) |
 | 6 | Power BI report | [Open Week 6](Week%206/) |
 | 7 | RFM customer segmentation | [Open Week 7](Week%207/) |
-| 8 | No project files added yet | [Open Week 8](Week%208/) |
+| 8 | Supabase sales ETL and weekly revenue analytics | [Open Week 8](Week%208/) |
 | 9 | UrbanStyle Analyst Hiring Blueprint | [Open Week 9](Week%209/) |
 
 Each weekly folder contains a README with a short project overview and links to its files.
