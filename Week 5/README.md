@@ -1,6 +1,6 @@
-# Week 5
+# Week 5 | Project Screenshots
 
-This folder contains two screenshots from the Week 5 work:
+This folder contains two screenshots documenting the Week 5 work.
 
-- `Screenshot 2026-10-22 203351.png`
-- `Screenshot 2026-10-22 203400.png`
+- [Screenshot 1](Screenshot%202026-10-22%20203351.png)
+- [Screenshot 2](Screenshot%202026-10-22%20203400.png)
