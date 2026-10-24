@@ -1,20 +1,13 @@
-# Week 3
+# Week 3 | Sales and Customer Joins
 
-## Topic
-SQL JOINs
-Role A: Combining sales and customers
-INNER JOIN: which customers have bought, and how much? Find the TOP customers by total spend. Build a best-customers overview for Anna.
-Tables: sales, customers
-SQL queries (.sql file) + results screenshot + short summary for Anna
+## Project brief
 
-## What I learned
-I've learned to use JOIN function and have understood how powerful function it is.
+Use an INNER JOIN between the sales and customers tables to identify purchasing customers and compare customer spend. The analysis was prepared as a best-customer overview.
 
-## Queries and projects
-[Week 3, role A, Sales + Customers (INNER JOIN), SQL.sql](https://github.com/user-attachments/files/32002776/Week.3.role.A.Sales.%2B.Customers.INNER.JOIN.SQL.sql)
+## Project file
 
+- [Sales and customers INNER JOIN queries](Week%203,%20role%20A,%20Sales%20+%20Customers%20(INNER%20JOIN),%20SQL.sql)
 
-## Challenges and solutions
+## Skills demonstrated
 
-## Next steps
-
+SQL joins and customer-level sales analysis.
