@@ -10,14 +10,14 @@ I am building practical data-analysis skills through hands-on projects and cours
 
 | Week | Focus | Project files |
 | --- | --- | --- |
-| 1 | SQL fundamentals and data exploration | [Open Week 1](Week%201/) |
-| 2 | Customer data quality and cleaning | [Open Week 2](Week%202/) |
-| 3 | Sales and customer analysis with SQL joins | [Open Week 3](Week%203/) |
-| 4 | Inventory and product statistics | [Open Week 4](Week%204/) |
-| 5 | Project screenshots | [Open Week 5](Week%205/) |
-| 6 | Power BI report | [Open Week 6](Week%206/) |
-| 7 | RFM customer segmentation | [Open Week 7](Week%207/) |
-| 8 | Supabase sales ETL and weekly revenue analytics | [Open Week 8](Week%208/) |
-| 9 | UrbanStyle Analyst Hiring Blueprint | [Open Week 9](Week%209/) |
+| 1 | SQL fundamentals and data exploration | [Week 1 - SQL Fundamentals](Week%201%20-%20SQL%20Fundamentals/) |
+| 2 | Customer data quality and cleaning | [Week 2 - Customer Data Cleaning](Week%202%20-%20Customer%20Data%20Cleaning/) |
+| 3 | Sales and customer analysis with SQL joins | [Week 3 - Sales and Customer Joins](Week%203%20-%20Sales%20and%20Customer%20Joins/) |
+| 4 | Inventory and product statistics | [Week 4 - Inventory and Product Analysis](Week%204%20-%20Inventory%20and%20Product%20Analysis/) |
+| 5 | Project screenshots | [Week 5 - Project Screenshots](Week%205%20-%20Project%20Screenshots/) |
+| 6 | Power BI report | [Week 6 - UrbanStyle Power BI Report](Week%206%20-%20UrbanStyle%20Power%20BI%20Report/) |
+| 7 | RFM customer segmentation | [Week 7 - RFM Customer Segmentation](Week%207%20-%20RFM%20Customer%20Segmentation/) |
+| 8 | Supabase sales ETL and weekly revenue analytics | [Week 8 - Sales Analytics Pipeline](Week%208%20-%20Sales%20Analytics%20Pipeline/) |
+| 9 | UrbanStyle Analyst Hiring Blueprint | [Week 9 - UrbanStyle Analyst Hiring Blueprint](Week%209%20-%20UrbanStyle%20Analyst%20Hiring%20Blueprint/) |
 
 Each weekly folder contains a README with a short project overview and links to its files.
