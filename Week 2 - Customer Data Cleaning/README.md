@@ -1,11 +1,11 @@
-# Week 2
+# Week 2 | Customer Data Quality
 
-## Topic
+## Overview
 
-Customer data cleaning and quality checks.
+SQL exercises for assessing and cleaning customer records. The queries examine duplicate email addresses, missing values, and inconsistent city and email formatting.
 
-## Files
+## Project files
 
-- [Customer cleaning queries](Week%202%20cleaning%20querries.sql) — check for duplicate emails, missing names, city variations, and normalize customer fields.
+- [Customer cleaning queries](Week%202%20cleaning%20querries.sql) - data-quality checks and normalization updates.
 - [Customer data audit](Week_2_Customer_Data_Audit.pdf)
-- [Conclusion of the first two weeks](Conclusion%20of%20first%202%20weeks)
+- [Reflection on the first two weeks](Conclusion%20of%20first%202%20weeks)

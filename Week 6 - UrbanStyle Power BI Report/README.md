@@ -1,5 +1,5 @@
-# Week 6
+# Week 6 | Power BI Report
 
-This folder contains a screenshot of the UrbanStyle report in Power BI.
+This folder contains a screenshot of the UrbanStyle report in Power BI, including customer and revenue visuals and a marketing dashboard view.
 
-- `Screenshot 2026-10-22 204901.png`
+- [Power BI report screenshot](Screenshot%202026-10-22%20204901.png)

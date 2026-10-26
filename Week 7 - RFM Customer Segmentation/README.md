@@ -1,10 +1,10 @@
-# Week 7
+# Week 7 | RFM Customer Segmentation
 
-## RFM customer segmentation
+## Overview
 
-The notebook cleans sales data, calculates Recency, Frequency, and Monetary metrics for customers, assigns customer segments, and visualizes the results.
+The notebook prepares sales data and applies Recency, Frequency, and Monetary (RFM) analysis to group customers. It includes customer-segment visualizations and a summary of findings and recommendations.
 
-## Files
+## Project files
 
-- [Week 7 notebook](week7.ipynb)
-- [Cleaned sales data](sales_clean.csv)
+- [RFM analysis notebook](week7.ipynb)
+- [Cleaned sales dataset](sales_clean.csv)

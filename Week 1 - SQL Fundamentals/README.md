@@ -1,11 +1,10 @@
-# Week 1
+# Week 1 | SQL Fundamentals
 
-## Topic
+## Overview
 
-SQL basics: exploring product and sales data.
+SQL exercises exploring product and sales tables, including record inspection, filtering, sorting, aggregation, and basic data-quality checks.
 
-## Files
+## Project files
 
-- [Product data sheet analysis queries](week%201%20product%20datasheet%20analyze.sql) — inspect product records, categories, prices, and missing values.
-- [Sales exploration queries](week1_sales_exploration.sql) — filter, sort, and count sales, and inspect missing customer IDs and non-positive totals.
-
+- [Product data analysis queries](week%201%20product%20datasheet%20analyze.sql) - inspect product records, categories, prices, and missing values.
+- [Sales exploration queries](week1_sales_exploration.sql) - filter and sort sales, calculate counts, and check customer IDs and sale totals.
