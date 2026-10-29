@@ -21,7 +21,9 @@ SQL, common table expressions, joins, aggregate functions, window functions.
 
 ## Screenshots
 
-No screenshots or saved query outputs are included. See the [inventory statistics SQL](Week%204,%20role%20C-%20Inventory%20Statistics.sql).
+The screenshot shows category-level product counts and price statistics from the SQL analysis.
+
+![Product pricing summary by category](Screenshot%202026-09-16%20135151.png)
 
 ## How to Run
 
