@@ -21,8 +21,6 @@ Power BI, KPI cards, monthly trend and category visuals. The report file and sou
 
 ## Screenshots
 
-![UrbanStyle Tartu store performance dashboard](Screenshot%202026-10-22%20204901.png)
-
 ![Updated UrbanStyle Tartu dashboard](Screenshot%202026-10-29%20174414.png)
 
 ## How to Run
