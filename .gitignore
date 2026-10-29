@@ -1,0 +1,22 @@
+# Secrets and local environment configuration
+.env
+.env.*
+!.env.example
+
+# Python environments, bytecode, and notebook checkpoints
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local data and generated analysis outputs
+**/data/
+*.csv
+*.xls
+*.xlsx
+**/output/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
