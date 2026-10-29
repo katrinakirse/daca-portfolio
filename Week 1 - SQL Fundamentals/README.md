@@ -15,7 +15,8 @@ The source files are [product analysis queries](week%201%20product%20datasheet%2
 - The project includes **2 SQL scripts**, covering product and sales exploration.
 - Product queries preview up to **10 rows** and compare the **10 highest- and lowest-priced** items.
 - Sales queries include the **5 highest-value Tartu sales**, the **10 cheapest** and **10 most expensive** sales, and invoice/customer counts.
-- Query results are not saved in the repository, so no database totals or data-quality rates are claimed here.
+- The screenshots show a catalog of **362 products** across **5 categories**.
+- The captured checks report **0 products missing a retail price** and **0 products missing a category**.
 
 ## Technical Stack
 
@@ -23,7 +24,31 @@ SQL, PostgreSQL-compatible syntax, product and sales tables.
 
 ## Screenshots
 
-No screenshots or query-result exports are included. See the SQL files for the analysis questions.
+The screenshots show the product-count and sample-row queries, category exploration, price sorting, category-specific inspection, and data-quality checks.
+
+![Product count query](Screenshot%202026-08-26%20131156.png)
+
+![Product sample query](Screenshot%202026-08-26%20131354.png)
+
+![Product category exploration](Screenshot%202026-08-26%20131417.png)
+
+![Highest-priced products](Screenshot%202026-08-26%20131521.png)
+
+![Lowest-priced products](Screenshot%202026-08-26%20131620.png)
+
+![Product inspection by category](Screenshot%202026-08-26%20131952.png)
+
+![Retail-price completeness check](Screenshot%202026-08-26%20132020.png)
+
+![Category completeness check](Screenshot%202026-08-26%20132052.png)
+
+![Minimum and maximum product prices](Screenshot%202026-08-26%20132351.png)
+
+![Product counts by category](Screenshot%202026-08-26%20133804.png)
+
+![Category product counts and price ranges](Screenshot%202026-08-26%20134102.png)
+
+![Category counts and average price summary](Screenshot%202026-08-26%20134330.png)
 
 ## How to Run
 
