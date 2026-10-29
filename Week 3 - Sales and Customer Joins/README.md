@@ -23,7 +23,17 @@ SQL, relational joins, aggregation, subqueries, sales and customer tables.
 
 ## Screenshots
 
-No screenshots or saved query results are included. The SQL file is the available evidence.
+These screenshots show the join detail query and customer, city, loyalty-tier, and above-average-spend summaries. Customer-level result rows are redacted in three images to protect personal information.
+
+![Sales and customer join detail query](Screenshot%202026-09-09%20121145.png)
+
+![Sales totals grouped by loyalty tier](Screenshot%202026-09-09%20122911.png)
+
+![Sales totals grouped by city](Screenshot%202026-09-09%20122926.png)
+
+![Top customer spend query with result rows redacted](Screenshot%202026-09-09%20122939.png)
+
+![Above-average customer spend query with result rows redacted](Screenshot%202026-09-09%20123106.png)
 
 ## How to Run
 
