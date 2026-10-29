@@ -4,7 +4,18 @@ A collection of project work exploring retail sales, customer behavior, data qua
 
 ## About
 
-I am building practical data-analysis skills through hands-on projects and coursework. This portfolio brings that work together and explains what each project demonstrates.
+Hi, I’m Katrina — Data Analyst in Progress
+I’m transitioning into IT with a focus on data analysis, reporting automation, and business intelligence.
+My work combines SQL, Python, and Power BI to turn raw data into clear insights and decision‑ready dashboards.
+
+## What I Do
+SQL — data extraction, cleaning, joins, aggregations, window functions
+
+Python (pandas) — data wrangling, pipelines, automated reporting
+
+Power BI / Plotly — interactive dashboards, KPI design, storytelling
+
+Data Storytelling — transforming analysis into clear business recommendations
 
 ## Project index
 
